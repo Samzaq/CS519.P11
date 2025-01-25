@@ -15,4 +15,4 @@
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Huỳnh Ngọc Bảo Long | 22520811 | 22520811@gm.uit.edu.vn | [gryffin-uit](https://github.com/gryffin-uit) |
-| 2 | Nguyễn Hữu Sang     | 2252124  | 2252124@gm.uit.edu.vn  |  [Sam-zaq] (https://github.com/Samzaq/CS519.P11)     |
+| 2 | Nguyễn Hữu Sang     | 2252124  | 2252124@gm.uit.edu.vn  |  [Samzaq](https://github.com/Samzaq) |
